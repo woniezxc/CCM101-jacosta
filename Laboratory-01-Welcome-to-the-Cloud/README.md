@@ -1,54 +1,3 @@
-### 1. Main Repository `README.md`
-
-*(Path: `CCM101-jacosta/README.md`)*
-
-```markdown
-# CCM101 - Cloud Computing Portfolio
-
-* **Student Name:** JERSON V. ACOSTA
-* **Course:** CCM101 - Cloud Computing
-* **Program:** Bachelor of Science in Information Technology
-* **Institution:** University of Eastern Pangasinan (College of Information Technology)
-
----
-
-## ☁️ Portfolio Overview
-Welcome to my official Cloud Computing portfolio for **CCM101**. This repository serves as a centralized, version-controlled workspace documenting my practical tasks, cloud infrastructure setups, Linux administration activities, and technical reflections completed throughout the semester.
-
----
-
-## 📁 Repository Structure
-```text
-CCM101-jacosta/
-├── README.md
-└── Laboratory-01-Welcome-to-the-Cloud/
-    ├── README.md
-    ├── system-information.md
-    ├── about-me.md
-    ├── reflection.md
-    └── screenshots/
-        ├── checkpoint-1.png
-        ├── checkpoint-2.png
-        ├── checkpoint-3.png
-        ├── checkpoint-4.png
-        └── checkpoint-5.png
-
-```
-
----
-
-## 🚀 Laboratory Activities
-
-* **Laboratory 01:** [Welcome to the Cloud](https://www.google.com/search?q=./Laboratory-01-Welcome-to-the-Cloud/)
-
-```
-
----
-
-### 2. Lab 1 `README.md`
-*(Path: `CCM101-jacosta/Laboratory-01-Welcome-to-the-Cloud/README.md`)*[cite: 1]
-
-```markdown
 # Laboratory Activity 1: Welcome to the Cloud
 
 * **Student Name:** JERSON V. ACOSTA
@@ -93,5 +42,3 @@ This onboarding mission serves as an introduction to working inside a cloud-base
 * Extracting hardware and system details using terminal diagnostics.
 * Writing clean technical documentation using Markdown syntax.
 * Structuring and managing a version-controlled portfolio repository on GitHub.
-
-```
