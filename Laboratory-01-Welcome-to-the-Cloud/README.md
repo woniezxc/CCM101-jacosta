@@ -1,7 +1,3 @@
-Here is the exact content to paste into your **`README.md`** files:
-
----
-
 ### 1. Main Repository `README.md`
 
 *(Path: `CCM101-jacosta/README.md`)*
