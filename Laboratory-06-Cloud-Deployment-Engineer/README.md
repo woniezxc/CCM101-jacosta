@@ -4,16 +4,16 @@
 # Laboratory 06: The Cloud Deployment Engineer
 
 ## Mission Overview
-As a Cloud Deployment Engineer for CloudNova Technologies, this mission involved deploying a proof-of-concept private cloud storage platform using Nextcloud and MariaDB[cite: 1]. Moving beyond single-container setups, this activity introduced Infrastructure as Code (IaC) principles by using Docker Compose to orchestrate a two-tier architecture smoothly[cite: 1].
+As a Cloud Deployment Engineer for CloudNova Technologies, this mission involved deploying a proof-of-concept private cloud storage platform using Nextcloud and MariaDB. Moving beyond single-container setups, this activity introduced Infrastructure as Code (IaC) principles by using Docker Compose to orchestrate a two-tier architecture smoothly.
 
 ---
 
 ## Objectives
-* Explain multi-tier application architecture and component isolation[cite: 1].
-* Write and structure a multi-container `docker-compose.yml` file[cite: 1].
-* Use terminal text editors (`nano`) to construct configuration files[cite: 1].
-* Deploy, verify, and tear down a two-tier stack using Docker Compose commands[cite: 1].
-* Document deployment processes and IaC principles[cite: 1].
+* Explain multi-tier application architecture and component isolation.
+* Write and structure a multi-container `docker-compose.yml` file.
+* Use terminal text editors (`nano`) to construct configuration files.
+* Deploy, verify, and tear down a two-tier stack using Docker Compose commands.
+* Document deployment processes and IaC principles.
 
 ---
 
