@@ -1,6 +1,6 @@
 # Mission Reflection
 
-Writing a docker-compose.yml file makes a cloud engineer's work vastly more efficient, reliable, and repeatable[cite: 1]. Instead of manually typing multiple lengthy docker run commands—which are prone to syntax errors and hard to replicate—Docker Compose lets you define an entire infrastructure in a single configuration file[cite: 1]. This enables seamless deployments across different environments with just one command (docker-compose up -d), saving time and eliminating configuration drift[cite: 1].
+Writing a docker-compose.yml file makes a cloud engineer's work vastly more efficient, reliable, and repeatable[cite: 1]. Instead of manually typing multiple lengthy docker run commands—which are prone to syntax errors and hard to replicate—Docker Compose lets you define an entire infrastructure in a single configuration file[cit: 1]. This enables seamless deployments across different environments with just one command (docker-compose up -d), saving time and eliminating configuration drift[cite: 1].
 
 Working with YAML highlighted the importance of strict formatting[cite: 1]. Because YAML relies on precise indentation to define structure, introducing formatting errors like using tabs instead of spaces or placing keys at the wrong depth breaks parser validation[cite: 1]. The file fails to execute, and Docker Compose throws syntax errors when trying to read the configuration[cite: 1].
 
