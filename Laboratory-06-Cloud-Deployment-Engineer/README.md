@@ -11,7 +11,7 @@ As a Cloud Deployment Engineer for CloudNova Technologies, this mission involved
 - Document deployment processes and IaC principles[cite: 1].
 
 ## Commands Executed
-
+```bash
 mkdir nextcloud-deployment && cd nextcloud-deployment
 nano docker-compose.yml
 docker-compose up -d
