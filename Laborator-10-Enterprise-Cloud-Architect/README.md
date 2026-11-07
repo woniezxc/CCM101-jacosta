@@ -1,7 +1,8 @@
 # Laboratory Activity 10 – The Enterprise Cloud Architect
 
 **Student:** Jerson Acosta 
-**Repository:** CCM101-rfmorales
+
+**Repository:** CCM101
 
 ## Project Overview
 This is the final laboratory activity of CCM101 – Cloud Computing. I designed, deployed, secured, and automated a complete multi-tier private cloud infrastructure using Nextcloud and MariaDB on Ubuntu Server.
